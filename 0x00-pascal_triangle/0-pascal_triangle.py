@@ -1,3 +1,8 @@
+#!/usr/bin/pyhton3
+"""
+Pascals's triangle
+"""
+
 def pascal_triangle(n):
     if n <= 0:
         return []
