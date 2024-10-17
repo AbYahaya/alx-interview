@@ -1,4 +1,4 @@
-#!/#!/usr/bin/python3
+#!/usr/bin/python3
 """
 By Ab yahaya
 """
@@ -8,10 +8,8 @@ def minOperations(n: int) -> int:
     """
     Calculates the minimum number of operations to result in exactly n H char
     using Copy All and Paste operations.
-    
     Args:
         n (int): The target number of H characters.
-    
     Returns:
         int: The minimum number of operations needed to reach exactly n H char
              If n is impossible to achieve, return 0.
